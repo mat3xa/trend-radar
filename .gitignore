@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+debug/
+logs/
+# Başka kullanıcıların video linkleri/açıklamaları: yerelde kalır, yayınlanmaz
+data/pool.json
+data/latest.json

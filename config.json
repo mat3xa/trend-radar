@@ -1,0 +1,36 @@
+{
+  "timezone": "Europe/Istanbul",
+  "region": "TR",
+  "exploreScrolls": 6,
+  "extraCategories": ["Pleybek", "Şarkı Söyleme ve Dans Etme", "Günlük Yaşam"],
+  "poolDays": 7,
+  "historyDays": 30,
+  "maxDiscoveredTags": 25,
+  "discoveredTtlDays": 10,
+  "niches": {
+    "Kız-Kıza Mizah & İlişki": {
+      "categories": ["İlişki", "Komedi", "Aile", "Drama"],
+      "tags": ["kızkıza", "kızlar", "kızlarbunuanlar", "ilişki", "ilişkiler", "sevgili", "sevgilim", "erkekarkadaş", "kızarkadaş", "bestie", "bff", "arkadaşlık", "evlilik", "kaynana", "kayınvalide", "annem", "anneler", "mizah", "komik", "komedi", "skeç", "flört", "ayrılık", "aşk"],
+      "keywords": ["sevgilim", "erkek arkadaş", "kız arkadaş", "kızlar", "annem", "kaynana", "kayınvalide", "ilişki", "bestie", "flört", "sevgili", "eski sevgili", "kocam", "karım"],
+      "watch": ["kızkıza", "ilişki", "sevgili", "erkekarkadaş", "kaynana", "komedi"]
+    },
+    "Güzellik & Makyaj": {
+      "categories": ["Güzellik Bakımı"],
+      "tags": ["makyaj", "makeup", "güzellik", "ciltbakımı", "skincare", "grwm", "benimlehazırlan", "kozmetik", "ruj", "fondöten", "parfüm", "nail", "tırnak", "nailart", "saç", "saçbakımı", "glowup", "makeuptutorial", "gratis", "watsons", "flormar"],
+      "keywords": ["makyaj", "cilt bakımı", "ruj", "fondöten", "parfüm", "glow up", "benimle hazırlan", "grwm", "skincare", "saç bakımı", "kirpik"],
+      "watch": ["makyaj", "ciltbakımı", "grwm", "benimlehazırlan", "parfüm", "glowup"]
+    },
+    "Moda & Kombin": {
+      "categories": ["Kıyafet"],
+      "tags": ["kombin", "kombinönerisi", "kombinler", "moda", "ootd", "outfit", "outfitideas", "stil", "giyim", "trendyol", "trendyolkombin", "zara", "alışveriş", "haul", "fashion", "tesettür", "tesettürkombin", "tesettürmoda"],
+      "keywords": ["kombin", "outfit", "trendyol", "zara", "alışveriş", "ootd", "haul", "giyim", "elbise"],
+      "watch": ["kombin", "ootd", "trendyolkombin", "tesettürkombin", "moda", "haul"]
+    }
+  },
+  "ignoreTags": ["fyp", "foryou", "foryoupage", "fy", "fypシ", "keşfet", "keşfetteyiz", "keşfetbeniöneçıkar", "keşfetedüş", "explore", "explorepage", "viral", "viralvideo", "tiktok", "trend", "trending", "capcut", "keşfetaçılsın", "global", "beniöneçıkar"],
+  "manualSources": {
+    "tokchart Türkiye (trend sesler)": "https://tokchart.com/trending/tr",
+    "TikTok Creative Center (TR şarkılar)": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/music/pc/tr?region=TR",
+    "Google Trends Türkiye": "https://trends.google.com/trending?geo=TR"
+  }
+}
