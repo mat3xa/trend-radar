@@ -1,6 +1,6 @@
-# Trend Radarı — 2026-10-20
+# Trend Radarı — 2026-10-21
 
-Explore'dan bugün 297 video, havuzda 309 video (61% Türkçe). Geçmiş: 1 gün.
+Explore'dan bugün 290 video, havuzda 346 video (61% Türkçe). Geçmiş: 2 gün.
 
 > ⏳ Hız/ivme için en az 3 günlük veri gerekiyor. İlk günlerde evreler "veri bekleniyor" görünür, normaldir.
 
@@ -8,108 +8,112 @@ Explore'dan bugün 297 video, havuzda 309 video (61% Türkçe). Geçmiş: 1 gün
 
 | Etiket | Niş | Evre | Toplam video | Günlük yeni video | Büyüme | İvme |
 |---|---|---|---|---|---|---|
-| [#kızkıza](https://www.tiktok.com/tag/k%C4%B1zk%C4%B1za) | Kız-Kıza Mizah & İlişki | veri bekleniyor | 28.6 B | – | – | – |
-| [#ilişki](https://www.tiktok.com/tag/ili%C5%9Fki) | Kız-Kıza Mizah & İlişki | veri bekleniyor | 73.4 B | – | – | – |
-| [#sevgili](https://www.tiktok.com/tag/sevgili) | Kız-Kıza Mizah & İlişki | veri bekleniyor | 476.8 B | – | – | – |
-| [#erkekarkadaş](https://www.tiktok.com/tag/erkekarkada%C5%9F) | Kız-Kıza Mizah & İlişki | veri bekleniyor | 5.1 B | – | – | – |
-| [#kaynana](https://www.tiktok.com/tag/kaynana) | Kız-Kıza Mizah & İlişki | veri bekleniyor | 30.3 B | – | – | – |
-| [#komedi](https://www.tiktok.com/tag/komedi) | Kız-Kıza Mizah & İlişki | veri bekleniyor | 6.7 Mn | – | – | – |
-| [#makyaj](https://www.tiktok.com/tag/makyaj) | Güzellik & Makyaj | veri bekleniyor | 362.6 B | – | – | – |
-| [#ciltbakımı](https://www.tiktok.com/tag/ciltbak%C4%B1m%C4%B1) | Güzellik & Makyaj | veri bekleniyor | 260.5 B | – | – | – |
-| [#grwm](https://www.tiktok.com/tag/grwm) | Güzellik & Makyaj | veri bekleniyor | 25.3 Mn | – | – | – |
-| [#BenimleHazırlan](https://www.tiktok.com/tag/BenimleHaz%C4%B1rlan) | Güzellik & Makyaj | veri bekleniyor | 47.6 B | – | – | – |
-| [#parfüm](https://www.tiktok.com/tag/parf%C3%BCm) | Güzellik & Makyaj | veri bekleniyor | 297.9 B | – | – | – |
-| [#glowup](https://www.tiktok.com/tag/glowup) | Güzellik & Makyaj | veri bekleniyor | 34.3 Mn | – | – | – |
-| [#kombin](https://www.tiktok.com/tag/kombin) | Moda & Kombin | veri bekleniyor | 408.4 B | – | – | – |
-| [#ootd](https://www.tiktok.com/tag/ootd) | Moda & Kombin | veri bekleniyor | 83.9 Mn | – | – | – |
-| [#trendyolkombin](https://www.tiktok.com/tag/trendyolkombin) | Moda & Kombin | veri bekleniyor | 412 | – | – | – |
-| [#tesettürkombin](https://www.tiktok.com/tag/tesett%C3%BCrkombin) | Moda & Kombin | veri bekleniyor | 33.9 B | – | – | – |
-| [#moda](https://www.tiktok.com/tag/moda) | Moda & Kombin | veri bekleniyor | 19.6 Mn | – | – | – |
-| [#haul](https://www.tiktok.com/tag/haul) | Moda & Kombin | veri bekleniyor | 20.1 Mn | – | – | – |
-| [#okul](https://www.tiktok.com/tag/okul) | Güzellik & Makyaj | veri bekleniyor | 512.4 B | – | – | – |
-| [#düğün](https://www.tiktok.com/tag/d%C3%BC%C4%9F%C3%BCn) | Kız-Kıza Mizah & İlişki | veri bekleniyor | 828.8 B | – | – | – |
+| [#moda](https://www.tiktok.com/tag/moda) | Moda & Kombin | büyüyor | 19.6 Mn | 11.9 B | %0.061 | – |
+| [#ootd](https://www.tiktok.com/tag/ootd) | Moda & Kombin | büyüyor | 83.9 Mn | 30.4 B | %0.036 | – |
+| [#annebaba](https://www.tiktok.com/tag/annebaba) | Kız-Kıza Mizah & İlişki | büyüyor | 18.2 B | 6 | %0.033 | – |
+| [#glowup](https://www.tiktok.com/tag/glowup) | Güzellik & Makyaj | büyüyor | 34.3 Mn | 10.2 B | %0.03 | – |
+| [#tesettürkombin](https://www.tiktok.com/tag/tesett%C3%BCrkombin) | Moda & Kombin | büyüyor | 33.9 B | 7 | %0.021 | – |
+| [#sevgili](https://www.tiktok.com/tag/sevgili) | Kız-Kıza Mizah & İlişki | büyüyor | 476.9 B | 91 | %0.019 | – |
+| [#komedi](https://www.tiktok.com/tag/komedi) | Kız-Kıza Mizah & İlişki | büyüyor | 6.7 Mn | 532 | %0.008 | – |
+| [#gelin](https://www.tiktok.com/tag/gelin) | Kız-Kıza Mizah & İlişki | büyüyor | 426.6 B | 33 | %0.008 | – |
+| [#grwm](https://www.tiktok.com/tag/grwm) | Güzellik & Makyaj | büyüyor | 25.3 Mn | 1.7 B | %0.007 | – |
+| [#bebek](https://www.tiktok.com/tag/bebek) | Kız-Kıza Mizah & İlişki | büyüyor | 968.0 B | 55 | %0.006 | – |
+| [#haul](https://www.tiktok.com/tag/haul) | Moda & Kombin | büyüyor | 20.1 Mn | 846 | %0.004 | – |
+| [#makyaj](https://www.tiktok.com/tag/makyaj) | Güzellik & Makyaj | büyüyor | 362.6 B | 5 | %0.001 | – |
+| [#anne](https://www.tiktok.com/tag/anne) | Kız-Kıza Mizah & İlişki | veri bekleniyor | 872.1 B | – | – | – |
+| [#arananadam38](https://www.tiktok.com/tag/arananadam38) | Kız-Kıza Mizah & İlişki | veri bekleniyor | 1.2 B | – | – | – |
+| [#kayseri](https://www.tiktok.com/tag/kayseri) | Kız-Kıza Mizah & İlişki | veri bekleniyor | 2.0 Mn | – | – | – |
+| [#shortvideo](https://www.tiktok.com/tag/shortvideo) | Kız-Kıza Mizah & İlişki | veri bekleniyor | 4.9 Mn | – | – | – |
+| [#reklam](https://www.tiktok.com/tag/reklam) | Güzellik & Makyaj | veri bekleniyor | 423.9 B | – | – | – |
+| [#saç](https://www.tiktok.com/tag/sa%C3%A7) | Güzellik & Makyaj | veri bekleniyor | 252.4 B | – | – | – |
+| [#hair](https://www.tiktok.com/tag/hair) | Güzellik & Makyaj | veri bekleniyor | 33.1 Mn | – | – | – |
+| [#kızkıza](https://www.tiktok.com/tag/k%C4%B1zk%C4%B1za) | Kız-Kıza Mizah & İlişki | durgun | 28.6 B | 0 | %0.0 | – |
 
 ## Sesler — Kız-Kıza Mizah & İlişki
 
 | Ses | Durum | Video (7 gün) | Bugün |
 |---|---|---|---|
-| [★ - orijinal ses — ★](https://www.tiktok.com/music/x-7501640032567118608) | yeni | 1 | 1 |
-| [Interstellar on Piano — Andy Morris](https://www.tiktok.com/music/x-7085461187713828866) | yeni | 1 | 1 |
-| [Aşk Bir Mevsim — Pinhani](https://www.tiktok.com/music/x-6820599817073330178) | yeni | 1 | 1 |
-| [Lovers Rock — TV Girl](https://www.tiktok.com/music/x-6787732539629897729) | yeni | 1 | 1 |
-| [Training Season — Dua Lipa](https://www.tiktok.com/music/x-7364576683909416977) | yeni | 1 | 1 |
-| [Şahidim — Eypio](https://www.tiktok.com/music/x-7692458369105365768) | yeni | 1 | 1 |
-| [شكرا — الوسمي](https://www.tiktok.com/music/x-7207550854952404994) | yeni | 1 | 1 |
-| [döndüm yine sanaa — yunusclkk7](https://www.tiktok.com/music/x-7684095866408290320) | yeni | 1 | 1 |
-| [Bir Çocuk Sevdim — Sezen Aksu](https://www.tiktok.com/music/x-6914871881032009730) | yeni | 1 | 1 |
-| [Moonlit Cello Drift — Molly Redmond](https://www.tiktok.com/music/x-7659108205701072938) | yeni | 1 | 1 |
+| [orijinal ses — böcek reis](https://www.tiktok.com/music/x-7694949983048469254) | yeni | 4 | 4 |
+| [Evlenmeliyiz — Hadise](https://www.tiktok.com/music/x-6719154385831593986) | yeni | 1 | 1 |
+| [★ - orijinal ses — ★](https://www.tiktok.com/music/x-7501640032567118608) | sakin | 1 | 0 |
+| [Interstellar on Piano — Andy Morris](https://www.tiktok.com/music/x-7085461187713828866) | sakin | 1 | 0 |
+| [Aşk Bir Mevsim — Pinhani](https://www.tiktok.com/music/x-6820599817073330178) | sakin | 1 | 0 |
+| [Lovers Rock — TV Girl](https://www.tiktok.com/music/x-6787732539629897729) | sakin | 1 | 0 |
+| [Training Season — Dua Lipa](https://www.tiktok.com/music/x-7364576683909416977) | sakin | 1 | 0 |
+| [Şahidim — Eypio](https://www.tiktok.com/music/x-7692458369105365768) | sakin | 1 | 0 |
+| [شكرا — الوسمي](https://www.tiktok.com/music/x-7207550854952404994) | sakin | 1 | 0 |
+| [döndüm yine sanaa — yunusclkk7](https://www.tiktok.com/music/x-7684095866408290320) | sakin | 1 | 0 |
 
 ## Sesler — Güzellik & Makyaj
 
 | Ses | Durum | Video (7 gün) | Bugün |
 |---|---|---|---|
-| [Geceye Sözüm Var (Canlı Konser) / Pop Arabesk / Anatolia Sound Official Music 2026 — Anatolia Sound](https://www.tiktok.com/music/x-7634524002321106961) | yeni | 1 | 1 |
-| [Pleasant cafe bossa nova -6min(1550084) — Noru](https://www.tiktok.com/music/x-7369290396323940353) | yeni | 1 | 1 |
+| [Evlenmeliyiz — Hadise](https://www.tiktok.com/music/x-6719154385831593986) | yeni | 1 | 1 |
+| [TRALALA — manifest](https://www.tiktok.com/music/x-7694406460926593813) | yeni | 1 | 1 |
+| [Kime Ne — Melis Derin](https://www.tiktok.com/music/x-7629098859469867025) | yeni | 1 | 1 |
+| [Geceye Sözüm Var (Canlı Konser) / Pop Arabesk / Anatolia Sound Official Music 2026 — Anatolia Sound](https://www.tiktok.com/music/x-7634524002321106961) | sakin | 1 | 0 |
+| [Pleasant cafe bossa nova -6min(1550084) — Noru](https://www.tiktok.com/music/x-7369290396323940353) | sakin | 1 | 0 |
 
 ## Sesler — Moda & Kombin
 
 | Ses | Durum | Video (7 gün) | Bugün |
 |---|---|---|---|
-| [original sound — notlolabella](https://www.tiktok.com/music/x-7686730447438514957) | yeni | 2 | 2 |
-| [original sound - do u know watermelon? — do u know watermelon?](https://www.tiktok.com/music/x-7623044123584367380) | yeni | 2 | 2 |
-| [Refreshing and light indie pop(1552207) — Cheng Lee](https://www.tiktok.com/music/x-7369293314431387649) | yeni | 1 | 1 |
-| [TRALALA — manifest](https://www.tiktok.com/music/x-7694406460926593813) | yeni | 1 | 1 |
+| [original sound — notlolabella](https://www.tiktok.com/music/x-7686730447438514957) | sakin | 2 | 0 |
+| [original sound - do u know watermelon? — do u know watermelon?](https://www.tiktok.com/music/x-7623044123584367380) | sakin | 2 | 0 |
+| [Refreshing and light indie pop(1552207) — Cheng Lee](https://www.tiktok.com/music/x-7369293314431387649) | sakin | 1 | 0 |
+| [TRALALA — manifest](https://www.tiktok.com/music/x-7694406460926593813) | sakin | 1 | 0 |
 
 ## Sesler — Şarkı Söyleme ve Dans Etme
 
 | Ses | Durum | Video (7 gün) | Bugün |
 |---|---|---|---|
-| [TRALALA — manifest](https://www.tiktok.com/music/x-7692023528062076980) | yeni | 2 | 2 |
-| [Zany Emote Fortnite — CsCrafty](https://www.tiktok.com/music/x-7002429550756219654) | yeni | 2 | 2 |
-| [orijinal ses — İsra](https://www.tiktok.com/music/x-7694661576993131271) | yeni | 2 | 2 |
-| [Bahar Gözlüm - Hazalım — Ramazan Talay](https://www.tiktok.com/music/x-7308706012520286210) | yeni | 1 | 1 |
+| [оригинальный звук - ТГК; Vaiff_G — ТГК; Vaiff_G](https://www.tiktok.com/music/x-7683062332474542870) | yükselişte | 2 | 1 |
+| [TRALALA — manifest](https://www.tiktok.com/music/x-7692023528062076980) | sakin | 2 | 0 |
+| [Zany Emote Fortnite — CsCrafty](https://www.tiktok.com/music/x-7002429550756219654) | sakin | 2 | 0 |
+| [orijinal ses — İsra](https://www.tiktok.com/music/x-7694661576993131271) | sakin | 2 | 0 |
+| [Bahar Gözlüm - Hazalım — Ramazan Talay](https://www.tiktok.com/music/x-7308706012520286210) | sakin | 1 | 0 |
 
 ## Sesler — Günlük Yaşam
 
 | Ses | Durum | Video (7 gün) | Bugün |
 |---|---|---|---|
-| [Pocketwatch Parade — Tilly Barton](https://www.tiktok.com/music/x-7681295152731686922) | yeni | 1 | 1 |
-| [Moo in Manhattan — Tiny Desk John](https://www.tiktok.com/music/x-7675350639023425582) | yeni | 1 | 1 |
-| [Zehra - Instrumental — Ultra Beats](https://www.tiktok.com/music/x-7094784605198239746) | yeni | 1 | 1 |
+| [Pocketwatch Parade — Tilly Barton](https://www.tiktok.com/music/x-7681295152731686922) | sakin | 1 | 0 |
+| [Moo in Manhattan — Tiny Desk John](https://www.tiktok.com/music/x-7675350639023425582) | sakin | 1 | 0 |
+| [Zehra - Instrumental — Ultra Beats](https://www.tiktok.com/music/x-7094784605198239746) | sakin | 1 | 0 |
 
 ## Sesler — Pleybek
 
 | Ses | Durum | Video (7 gün) | Bugün |
 |---|---|---|---|
-| [orijinal ses — arşiv-ül reis](https://www.tiktok.com/music/x-7678012705307790097) | yeni | 2 | 2 |
+| [orijinal ses — arşiv-ül reis](https://www.tiktok.com/music/x-7678012705307790097) | sakin | 2 | 0 |
 
 ## Sesler — Genel Türkiye
 
 | Ses | Durum | Video (7 gün) | Bugün |
 |---|---|---|---|
-| [оригинальный звук - ТГК; Vaiff_G — ТГК; Vaiff_G](https://www.tiktok.com/music/x-7683062332474542870) | yeni | 3 | 3 |
-| [TRALALA — manifest](https://www.tiktok.com/music/x-7692023528062076980) | yeni | 2 | 2 |
-| [original sound — notlolabella](https://www.tiktok.com/music/x-7686730447438514957) | yeni | 2 | 2 |
-| [orijinal ses — ruhastası](https://www.tiktok.com/music/x-7690666673926687506) | yeni | 2 | 2 |
-| [Zany Emote Fortnite — CsCrafty](https://www.tiktok.com/music/x-7002429550756219654) | yeni | 2 | 2 |
-| [original sound - do u know watermelon? — do u know watermelon?](https://www.tiktok.com/music/x-7623044123584367380) | yeni | 2 | 2 |
-| [Refreshing and light indie pop(1552207) — Cheng Lee](https://www.tiktok.com/music/x-7369293314431387649) | yeni | 1 | 1 |
-| [★ - orijinal ses — ★](https://www.tiktok.com/music/x-7501640032567118608) | yeni | 1 | 1 |
-| [Interstellar on Piano — Andy Morris](https://www.tiktok.com/music/x-7085461187713828866) | yeni | 1 | 1 |
-| [Morning Blend Bossa — Sum Dekinaita](https://www.tiktok.com/music/x-7622873477800413200) | yeni | 1 | 1 |
+| [оригинальный звук - ТГК; Vaiff_G — ТГК; Vaiff_G](https://www.tiktok.com/music/x-7683062332474542870) | aktif | 4 | 1 |
+| [orijinal ses — böcek reis](https://www.tiktok.com/music/x-7694949983048469254) | yeni | 3 | 3 |
+| [TRALALA — manifest](https://www.tiktok.com/music/x-7692023528062076980) | aktif | 3 | 1 |
+| [original sound — notlolabella](https://www.tiktok.com/music/x-7686730447438514957) | sakin | 2 | 0 |
+| [orijinal ses — ruhastası](https://www.tiktok.com/music/x-7690666673926687506) | sakin | 2 | 0 |
+| [Zany Emote Fortnite — CsCrafty](https://www.tiktok.com/music/x-7002429550756219654) | sakin | 2 | 0 |
+| [original sound - do u know watermelon? — do u know watermelon?](https://www.tiktok.com/music/x-7623044123584367380) | sakin | 2 | 0 |
+| [Evlenmeliyiz — Hadise](https://www.tiktok.com/music/x-6719154385831593986) | yeni | 1 | 1 |
+| [Kime Ne — Melis Derin](https://www.tiktok.com/music/x-7629098859469867025) | yeni | 1 | 1 |
+| [Refreshing and light indie pop(1552207) — Cheng Lee](https://www.tiktok.com/music/x-7369293314431387649) | sakin | 1 | 0 |
 
 ## Gündem (Google Trends TR)
 
-- **ömer üründül** (500+) — Vincenzo Italiano: 'Daha iyi olmalıyız, deplasmanda yapamıyoruz'
-- **yandex** (20000+) — Rusya Yandex'in veri merkezlerini korumaya alıyor
-- **justin** (1000+) — Model Sahara Ray Dead at 34
-- **mustafa levent sungur** (200+) — TOKİ Başkanı Sungur: 2026'da 255 bin konut teslim edilecek
-- **tubi** (200+) — Former Netflix and Tubi Producer To Launch Shortee, A Vertical Streaming and Gaming App
-- **yalla kora** (200+) — بالمر أم ساكا أم إيزاك.. من الخيار الأفضل في الفانتازي؟
-- **matvey safonov** (200+) — Dembele atones for penalty miss with goal, assist in PSG's late comeback win over Strasbourg
-- **porto** (1000+) — FC Porto x PSV Eindhoven: Palpite para o título da Premier League
-- **ferran torres** (500+) — Ferran y el Barça, breve historia de un desencuentro
-- **kvaratskhelia** (200+) — Arsenal told chances of signing PSG superstar Khvicha Kvaratskhelia amid two vital factors for transfer
+- **meteor yağmuru** (100+) — Gökyüzünde şölen var
+- **emekli maaş promosyonu** (2000+) — EMEKLİYE FIRSAT 🎉 DEVLETTE 3 YILLIK PEŞİN ÖDEME > Ziraat Bankası'nın emekli maaşı banka promosyonu ne kadar? 2026 Ekim Emekli promosyonu kaç TL?
+- **rüşvet** (200+) — Mersin merkezli dolandırıcılık ve rüşvet soruşturmasında 37 zanlı gözaltına alındı
+- **ödül** (200+) — Patentli buluş yapan askere 14 kat albay aylığı ödül
+- **6 şubat** (200+) — Kayseri'deki depremin ardından uzman isim 6 Şubat'ı işaret etti!
+- **toki** (2000+) — SIFIR DAİRE 🏡 TOKİ Kiralık konutların kura çekilişi ne zaman? Ekim'in son 13 gününde TOKİ kiralık konut kurası hangi gün çekilecek?
+- **spurs - thunder** (500+) — Thunder-Spurs opener heats up with De’Aaron Fox flagrant foul on Chet Holmgren
+- **kaza** (500+) — Motosikletin çarptığı yaya öldü: Kaza anı kamerada
+- **organize işler karun hazinesi kam davulu** (200+) — Tepki İçin Girenler Zirveye Taşıdı: 2,5 Puanlı Karun Hazinesi IMDb'de En Popüler Dizi Oldu
+- **ekmek** (100+) — Mersin'de uyuşturucu operasyonunda yakalanan 6 zanlıdan 4'ü tutuklandı
 
 ## Creative Center TR (resmi, 7 gün)
 
