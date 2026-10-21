@@ -1,6 +1,6 @@
 # Trend Radarı — 2026-10-21
 
-Explore'dan bugün 305 video, havuzda 403 video (63% Türkçe). Geçmiş: 2 gün.
+Explore'dan bugün 303 video, havuzda 403 video (63% Türkçe). Geçmiş: 2 gün.
 
 > ⏳ Hız/ivme için en az 3 günlük veri gerekiyor. İlk günlerde evreler "veri bekleniyor" görünür, normaldir.
 
@@ -38,8 +38,8 @@ Explore'dan bugün 305 video, havuzda 403 video (63% Türkçe). Geçmiş: 2 gün
 | [Chopin Nocturne No. 2 Piano Mono — moshimo sound design](https://www.tiktok.com/music/x-6817665487665629186) | yeni | 1 | 1 |
 | [★ - orijinal ses — ★](https://www.tiktok.com/music/x-7501640032567118608) | sakin | 1 | 0 |
 | [Interstellar on Piano — Andy Morris](https://www.tiktok.com/music/x-7085461187713828866) | sakin | 1 | 0 |
-| [Aşk Bir Mevsim — Pinhani](https://www.tiktok.com/music/x-6820599817073330178) | sakin | 1 | 0 |
 | [Lovers Rock — TV Girl](https://www.tiktok.com/music/x-6787732539629897729) | sakin | 1 | 0 |
+| [Aşk Bir Mevsim — Pinhani](https://www.tiktok.com/music/x-6820599817073330178) | sakin | 1 | 0 |
 | [Training Season — Dua Lipa](https://www.tiktok.com/music/x-7364576683909416977) | sakin | 1 | 0 |
 | [Şahidim — Eypio](https://www.tiktok.com/music/x-7692458369105365768) | sakin | 1 | 0 |
 | [شكرا — الوسمي](https://www.tiktok.com/music/x-7207550854952404994) | sakin | 1 | 0 |
@@ -104,16 +104,16 @@ Explore'dan bugün 305 video, havuzda 403 video (63% Türkçe). Geçmiş: 2 gün
 
 ## Gündem (Google Trends TR)
 
-- **yükseköğretim kurulu** (100+)
-- **sevda erginci** (100+) — Ünlü oyuncu Sevda Erginci İstanbul'u geride bıraktı! İzmir'deki yeni hayatını anlattı
-- **alnus yatırım** (100+) — SPK'dan kritik karar! 3 aracı kurumun faaliyetleri durduruldu
-- **buzağı** (500+) — 4 büyükbaşla başladılar: 5 yılda 40 buzağı, sıfır kayıp!
-- **28 ekim yarım gün mü** (2000+) — 28 Ekim Tatil mi, Yarım Gün mü?
-- **şanlıurfa hava durumu** (500+) — Şanlıurfa’da 15 Ekim Hava Durumu: İlçelerde Yağış Bekleniyor!
-- **meteor yağmuru** (200+) — Orionid meteor yağmuru bu gece mi, ne zaman, saat kaçta? Meteor yağmuru Türkiye’den izlenebilecek mi, nasıl izlenir? Halley Kuyruklu Yıldızı’nın izleri gökyüzünde!
-- **eurohoops türkiye** (100+) — NBA'de yeni sezon başlıyor
-- **emekli maaş promosyonu** (2000+) — Emekliye zam öncesi 90 bin TL fırsatı! Bu para nasıl alınıyor? İşte en yüksek ödemenin şartları
-- **rüşvet** (500+) — 'Görüşmeyi hatırlamıyorum ama kimseye ‘Helal et’ diye bir şey söylemem'
+- **sermaye piyasası kurulu** (1000+) — SPK'dan Alnus, Bulls ve Pusula Yatırım'ın faaliyetlerini durdurma kararı
+- **ramazan bayramı 2027** (1000+) — Üç aylar ne zaman başlıyor, Recep, Şaban ve Ramazan ayı hangi tarihlerde?
+- **yatırımcı** (100+) — SPK, YTM şartlarını açıkladı! e-Devlet dışı başvuru şartları belli oldu
+- **orionid meteor yağmuru** (500+) — Orionid meteor yağmuru bu gece mi, ne zaman, saat kaçta? Meteor yağmuru Türkiye’den izlenebilecek mi, nasıl izlenir? Halley Kuyruklu Yıldızı’nın izleri gökyüzünde!
+- **volkswagen arena** (500+) — Senfoni geceleri
+- **merkez bankası faiz kararı ne zaman** (1000+) — Yurt içi piyasaların gözü faiz kararına çevrildi
+- **hmgs** (10000+) — HMGS SONUÇLARI 2026 AÇIKLANDI MI? HMGS ne zaman açıklanacak? 2026 Hukuk Mesleklerine Giriş Sınavı (HMGS) sonuç tarihi
+- **eurofighter typhoon** (2000+) — ‘Bir ülke Türkiye’ye uçak sırasını veriyor’
+- **albay** (1000+) — Salceda backs growth of 4 natural, historical sites in Albay
+- **benzine indirim** (10000+) — Benzine bir indirim daha geliyor: Tarih verildi
 
 ## Creative Center TR (resmi, 7 gün)
 
