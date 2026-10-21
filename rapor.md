@@ -104,16 +104,16 @@ Explore'dan bugün 305 video, havuzda 403 video (63% Türkçe). Geçmiş: 2 gün
 
 ## Gündem (Google Trends TR)
 
-- **meteor yağmuru** (100+) — Gökyüzünde şölen var
-- **emekli maaş promosyonu** (2000+) — EMEKLİYE FIRSAT 🎉 DEVLETTE 3 YILLIK PEŞİN ÖDEME > Ziraat Bankası'nın emekli maaşı banka promosyonu ne kadar? 2026 Ekim Emekli promosyonu kaç TL?
-- **rüşvet** (200+) — Mersin merkezli dolandırıcılık ve rüşvet soruşturmasında 37 zanlı gözaltına alındı
-- **ödül** (200+) — Patentli buluş yapan askere 14 kat albay aylığı ödül
-- **6 şubat** (200+) — Kayseri'deki depremin ardından uzman isim 6 Şubat'ı işaret etti!
-- **toki** (2000+) — SIFIR DAİRE 🏡 TOKİ Kiralık konutların kura çekilişi ne zaman? Ekim'in son 13 gününde TOKİ kiralık konut kurası hangi gün çekilecek?
-- **spurs - thunder** (500+) — Thunder-Spurs opener heats up with De’Aaron Fox flagrant foul on Chet Holmgren
-- **kaza** (500+) — Bodrum'da motosikletin çarptığı 79 yaşındaki yaya hayatını kaybetti
-- **organize işler karun hazinesi kam davulu** (200+) — Tepki İçin Girenler Zirveye Taşıdı: 2,5 Puanlı Karun Hazinesi IMDb'de En Popüler Dizi Oldu
-- **ekmek** (100+) — Mersin'de uyuşturucu operasyonunda yakalanan 6 zanlıdan 4'ü tutuklandı
+- **yükseköğretim kurulu** (100+)
+- **sevda erginci** (100+) — Ünlü oyuncu Sevda Erginci İstanbul'u geride bıraktı! İzmir'deki yeni hayatını anlattı
+- **alnus yatırım** (100+) — SPK'dan kritik karar! 3 aracı kurumun faaliyetleri durduruldu
+- **buzağı** (500+) — 4 büyükbaşla başladılar: 5 yılda 40 buzağı, sıfır kayıp!
+- **28 ekim yarım gün mü** (2000+) — 28 Ekim Tatil mi, Yarım Gün mü?
+- **şanlıurfa hava durumu** (500+) — Şanlıurfa’da 15 Ekim Hava Durumu: İlçelerde Yağış Bekleniyor!
+- **meteor yağmuru** (200+) — Orionid meteor yağmuru bu gece mi, ne zaman, saat kaçta? Meteor yağmuru Türkiye’den izlenebilecek mi, nasıl izlenir? Halley Kuyruklu Yıldızı’nın izleri gökyüzünde!
+- **eurohoops türkiye** (100+) — NBA'de yeni sezon başlıyor
+- **emekli maaş promosyonu** (2000+) — Emekliye zam öncesi 90 bin TL fırsatı! Bu para nasıl alınıyor? İşte en yüksek ödemenin şartları
+- **rüşvet** (500+) — 'Görüşmeyi hatırlamıyorum ama kimseye ‘Helal et’ diye bir şey söylemem'
 
 ## Creative Center TR (resmi, 7 gün)
 
