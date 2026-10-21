@@ -1,6 +1,6 @@
 # Trend Radarı — 2026-10-21
 
-Explore'dan bugün 303 video, havuzda 403 video (63% Türkçe). Geçmiş: 2 gün.
+Explore'dan bugün 311 video, havuzda 460 video (62% Türkçe). Geçmiş: 2 gün.
 
 > ⏳ Hız/ivme için en az 3 günlük veri gerekiyor. İlk günlerde evreler "veri bekleniyor" görünür, normaldir.
 
@@ -34,15 +34,15 @@ Explore'dan bugün 303 video, havuzda 403 video (63% Türkçe). Geçmiş: 2 gün
 | Ses | Durum | Video (7 gün) | Bugün |
 |---|---|---|---|
 | [orijinal ses — böcek reis](https://www.tiktok.com/music/x-7694949983048469254) | yeni | 4 | 4 |
+| [orijinal ses — xavien](https://www.tiktok.com/music/x-7688900030211574549) | yeni | 2 | 2 |
 | [Evlenmeliyiz — Hadise](https://www.tiktok.com/music/x-6719154385831593986) | yeni | 1 | 1 |
 | [Chopin Nocturne No. 2 Piano Mono — moshimo sound design](https://www.tiktok.com/music/x-6817665487665629186) | yeni | 1 | 1 |
+| [QKThr — Aphex Twin](https://www.tiktok.com/music/x-6771810675950880769) | yeni | 1 | 1 |
+| [In Your Eyes — Kylie Minogue](https://www.tiktok.com/music/x-6705081060549462017) | yeni | 1 | 1 |
 | [★ - orijinal ses — ★](https://www.tiktok.com/music/x-7501640032567118608) | sakin | 1 | 0 |
 | [Interstellar on Piano — Andy Morris](https://www.tiktok.com/music/x-7085461187713828866) | sakin | 1 | 0 |
 | [Lovers Rock — TV Girl](https://www.tiktok.com/music/x-6787732539629897729) | sakin | 1 | 0 |
 | [Aşk Bir Mevsim — Pinhani](https://www.tiktok.com/music/x-6820599817073330178) | sakin | 1 | 0 |
-| [Training Season — Dua Lipa](https://www.tiktok.com/music/x-7364576683909416977) | sakin | 1 | 0 |
-| [Şahidim — Eypio](https://www.tiktok.com/music/x-7692458369105365768) | sakin | 1 | 0 |
-| [شكرا — الوسمي](https://www.tiktok.com/music/x-7207550854952404994) | sakin | 1 | 0 |
 
 ## Sesler — Güzellik & Makyaj
 
@@ -63,20 +63,16 @@ Explore'dan bugün 303 video, havuzda 403 video (63% Türkçe). Geçmiş: 2 gün
 | [Refreshing and light indie pop(1552207) — Cheng Lee](https://www.tiktok.com/music/x-7369293314431387649) | sakin | 1 | 0 |
 | [TRALALA — manifest](https://www.tiktok.com/music/x-7694406460926593813) | sakin | 1 | 0 |
 
-## Sesler — Pleybek
-
-| Ses | Durum | Video (7 gün) | Bugün |
-|---|---|---|---|
-| [orijinal ses — arşiv-ül reis](https://www.tiktok.com/music/x-7678012705307790097) | sakin | 2 | 0 |
-
 ## Sesler — Şarkı Söyleme ve Dans Etme
 
 | Ses | Durum | Video (7 gün) | Bugün |
 |---|---|---|---|
+| [Zany Emote Fortnite — CsCrafty](https://www.tiktok.com/music/x-7002429550756219654) | aktif | 3 | 1 |
+| [orijinal ses — diyarbakır ciğeri](https://www.tiktok.com/music/x-7681711084327258888) | yükselişte | 2 | 1 |
 | [оригинальный звук - ТГК; Vaiff_G — ТГК; Vaiff_G](https://www.tiktok.com/music/x-7683062332474542870) | yükselişte | 2 | 1 |
 | [TRALALA — manifest](https://www.tiktok.com/music/x-7692023528062076980) | sakin | 2 | 0 |
-| [Zany Emote Fortnite — CsCrafty](https://www.tiktok.com/music/x-7002429550756219654) | sakin | 2 | 0 |
 | [orijinal ses — İsra](https://www.tiktok.com/music/x-7694661576993131271) | sakin | 2 | 0 |
+| [Macarena — Los Del Rio](https://www.tiktok.com/music/x-6696416708585850882) | yeni | 1 | 1 |
 | [Bahar Gözlüm - Hazalım — Ramazan Talay](https://www.tiktok.com/music/x-7308706012520286210) | sakin | 1 | 0 |
 
 ## Sesler — Günlük Yaşam
@@ -87,6 +83,12 @@ Explore'dan bugün 303 video, havuzda 403 video (63% Türkçe). Geçmiş: 2 gün
 | [Moo in Manhattan — Tiny Desk John](https://www.tiktok.com/music/x-7675350639023425582) | sakin | 1 | 0 |
 | [Zehra - Instrumental — Ultra Beats](https://www.tiktok.com/music/x-7094784605198239746) | sakin | 1 | 0 |
 
+## Sesler — Pleybek
+
+| Ses | Durum | Video (7 gün) | Bugün |
+|---|---|---|---|
+| [orijinal ses — arşiv-ül reis](https://www.tiktok.com/music/x-7678012705307790097) | sakin | 2 | 0 |
+
 ## Sesler — Genel Türkiye
 
 | Ses | Durum | Video (7 gün) | Bugün |
@@ -94,26 +96,26 @@ Explore'dan bugün 303 video, havuzda 403 video (63% Türkçe). Geçmiş: 2 gün
 | [оригинальный звук - ТГК; Vaiff_G — ТГК; Vaiff_G](https://www.tiktok.com/music/x-7683062332474542870) | aktif | 4 | 1 |
 | [orijinal ses — böcek reis](https://www.tiktok.com/music/x-7694949983048469254) | yeni | 3 | 3 |
 | [TRALALA — manifest](https://www.tiktok.com/music/x-7692023528062076980) | aktif | 3 | 1 |
+| [Tralala x Cimilli İbo — CeKo on the Mix](https://www.tiktok.com/music/x-7694636439338666759) | yükselişte | 2 | 1 |
 | [original sound — notlolabella](https://www.tiktok.com/music/x-7686730447438514957) | sakin | 2 | 0 |
 | [orijinal ses — ruhastası](https://www.tiktok.com/music/x-7690666673926687506) | sakin | 2 | 0 |
 | [Zany Emote Fortnite — CsCrafty](https://www.tiktok.com/music/x-7002429550756219654) | sakin | 2 | 0 |
 | [original sound - do u know watermelon? — do u know watermelon?](https://www.tiktok.com/music/x-7623044123584367380) | sakin | 2 | 0 |
 | [Çingenem — Ebru Gündeş](https://www.tiktok.com/music/x-6739888450956167169) | yeni | 1 | 1 |
-| [Evlenmeliyiz — Hadise](https://www.tiktok.com/music/x-6719154385831593986) | yeni | 1 | 1 |
-| [Chopin Nocturne No. 2 Piano Mono — moshimo sound design](https://www.tiktok.com/music/x-6817665487665629186) | yeni | 1 | 1 |
+| [Macarena — Los Del Rio](https://www.tiktok.com/music/x-6696416708585850882) | yeni | 1 | 1 |
 
 ## Gündem (Google Trends TR)
 
-- **sermaye piyasası kurulu** (1000+) — SPK'dan Alnus, Bulls ve Pusula Yatırım'ın faaliyetlerini durdurma kararı
-- **ramazan bayramı 2027** (1000+) — Üç aylar ne zaman başlıyor, Recep, Şaban ve Ramazan ayı hangi tarihlerde?
-- **yatırımcı** (100+) — SPK, YTM şartlarını açıkladı! e-Devlet dışı başvuru şartları belli oldu
-- **orionid meteor yağmuru** (500+) — Orionid meteor yağmuru bu gece mi, ne zaman, saat kaçta? Meteor yağmuru Türkiye’den izlenebilecek mi, nasıl izlenir? Halley Kuyruklu Yıldızı’nın izleri gökyüzünde!
-- **volkswagen arena** (500+) — Senfoni geceleri
-- **merkez bankası faiz kararı ne zaman** (1000+) — Yurt içi piyasaların gözü faiz kararına çevrildi
-- **hmgs** (10000+) — HMGS SONUÇLARI 2026 AÇIKLANDI MI? HMGS ne zaman açıklanacak? 2026 Hukuk Mesleklerine Giriş Sınavı (HMGS) sonuç tarihi
-- **eurofighter typhoon** (2000+) — ‘Bir ülke Türkiye’ye uçak sırasını veriyor’
-- **albay** (1000+) — Salceda backs growth of 4 natural, historical sites in Albay
-- **benzine indirim** (10000+) — Benzine bir indirim daha geliyor: Tarih verildi
+- **el niño** (500+) — El océano se está volviendo más azul a causa de El Niño, y no es una buena noticia
+- **flashscore** (200+) — Texas Tech W
+- **neuer** (100+) — 22:35 NBA-Team zieht Option für deutschen Nationalspieler
+- **schengen bölgesi** (100+) — Schengen cambazlığı: 180 günde 90 gün sınırını ihlalsiz nasıl korursunuz
+- **bilim** (200+) — YÖK'e 'Altın Pusula' birinciliği
+- **emir sarıgül** (1000+) — Mustafa Sarıgül'e bir kötü haber daha: Oğlu Emir Sarıgül hakkında son dakika kararı
+- **yeraltı 19 bölüm** (10000+) — Dizi, Film, Haber, TV
+- **kızılay** (200+) — Sivas'ta Türk Kızılay tarafından aşevi açıldı
+- **ınter** (100+)
+- **бавария – арсенал** (100+) — ФОТО. Вынужденная замена: Арсенал потерял лидера в начале игры с Баварией
 
 ## Creative Center TR (resmi, 7 gün)
 
