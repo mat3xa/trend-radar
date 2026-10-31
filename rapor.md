@@ -1,70 +1,82 @@
-# Trend Radarı — 2026-10-30
+# Trend Radarı — 2026-10-31
 
-Explore'dan bugün 291 video, havuzda 830 video (47% Türkçe). Geçmiş: 10 gün.
+Explore'dan bugün 294 video, havuzda 849 video (47% Türkçe). Geçmiş: 11 gün.
 
 ## Hashtag'ler (evreye göre)
 
 | Etiket | Niş | Evre | Toplam video | Günlük yeni video | Büyüme | İvme |
 |---|---|---|---|---|---|---|
-| [#oppahuy](https://www.tiktok.com/tag/oppahuy) | Kız-Kıza Mizah & İlişki | 🔥 erken yükseliş | 16.2 B | 47 | %0.291 | 6 |
-| [#sac](https://www.tiktok.com/tag/sac) | Güzellik & Makyaj | 📈 hızlanıyor | 1.1 Mn | 412.5 B | %162.89 | 412.4 B |
-| [#parfüm](https://www.tiktok.com/tag/parf%C3%BCm) | Güzellik & Makyaj | 📈 hızlanıyor | 301.0 B | 357 | %0.119 | 7 |
-| [#makyaj](https://www.tiktok.com/tag/makyaj) | Güzellik & Makyaj | 📈 hızlanıyor | 365.3 B | 361 | %0.099 | 186 |
-| [#sevgili](https://www.tiktok.com/tag/sevgili) | Kız-Kıza Mizah & İlişki | 📈 hızlanıyor | 478.4 B | 441 | %0.092 | 187 |
-| [#kaynana](https://www.tiktok.com/tag/kaynana) | Kız-Kıza Mizah & İlişki | 📈 hızlanıyor | 30.4 B | 25 | %0.082 | 24 |
-| [#kızkıza](https://www.tiktok.com/tag/k%C4%B1zk%C4%B1za) | Kız-Kıza Mizah & İlişki | 📈 hızlanıyor | 28.8 B | 23 | %0.08 | 1 |
-| [#komedi](https://www.tiktok.com/tag/komedi) | Kız-Kıza Mizah & İlişki | 📈 hızlanıyor | 6.7 Mn | 3.9 B | %0.058 | 300 |
-| [#BenimleHazırlan](https://www.tiktok.com/tag/BenimleHaz%C4%B1rlan) | Güzellik & Makyaj | 📈 hızlanıyor | 47.8 B | 27 | %0.056 | 23 |
-| [#tesettürkombin](https://www.tiktok.com/tag/tesett%C3%BCrkombin) | Moda & Kombin | 📈 hızlanıyor | 34.1 B | 17 | %0.05 | 5 |
-| [#bebek](https://www.tiktok.com/tag/bebek) | Kız-Kıza Mizah & İlişki | 📈 hızlanıyor | 971.9 B | 372 | %0.038 | 14 |
-| [#haul](https://www.tiktok.com/tag/haul) | Moda & Kombin | 📈 hızlanıyor | 20.1 Mn | 6.5 B | %0.032 | 2.4 B |
-| [#aile](https://www.tiktok.com/tag/aile) | Kız-Kıza Mizah & İlişki | 📈 hızlanıyor | 545.6 B | 168 | %0.031 | 50 |
-| [#gelin](https://www.tiktok.com/tag/gelin) | Kız-Kıza Mizah & İlişki | 📈 hızlanıyor | 427.6 B | 66 | %0.015 | 6 |
-| [#değişim](https://www.tiktok.com/tag/de%C4%9Fi%C5%9Fim) | Kız-Kıza Mizah & İlişki | 📈 hızlanıyor | 256.3 B | 28 | %0.011 | 2 |
-| [#drama](https://www.tiktok.com/tag/drama) | Kız-Kıza Mizah & İlişki | büyüyor | 18.9 Mn | 22.9 B | %0.121 | – |
-| [#akım](https://www.tiktok.com/tag/ak%C4%B1m) | Kız-Kıza Mizah & İlişki | büyüyor | 3.0 Mn | 2.5 B | %0.085 | – |
-| [#relatable](https://www.tiktok.com/tag/relatable) | Kız-Kıza Mizah & İlişki | büyüyor | 98.8 Mn | 75.6 B | %0.077 | – |
-| [#hairstyle](https://www.tiktok.com/tag/hairstyle) | Güzellik & Makyaj | büyüyor | 20.4 Mn | 12.7 B | %0.062 | – |
-| [#güldürgüldür](https://www.tiktok.com/tag/g%C3%BCld%C3%BCrg%C3%BCld%C3%BCr) | Kız-Kıza Mizah & İlişki | büyüyor | 94.0 B | 39 | %0.041 | – |
+| [#erkekarkadaş](https://www.tiktok.com/tag/erkekarkada%C5%9F) | Kız-Kıza Mizah & İlişki | 🔥 erken yükseliş | 5.1 B | 1 | %0.02 | 6 |
+| [#ootd](https://www.tiktok.com/tag/ootd) | Moda & Kombin | 📈 hızlanıyor | 85.0 Mn | 102.2 B | %0.12 | 4.3 B |
+| [#moda](https://www.tiktok.com/tag/moda) | Moda & Kombin | 📈 hızlanıyor | 19.8 Mn | 19.3 B | %0.097 | 5.2 B |
+| [#tesettürkombin](https://www.tiktok.com/tag/tesett%C3%BCrkombin) | Moda & Kombin | 📈 hızlanıyor | 34.1 B | 30 | %0.088 | 13 |
+| [#grwm](https://www.tiktok.com/tag/grwm) | Güzellik & Makyaj | 📈 hızlanıyor | 25.3 Mn | 6.4 B | %0.025 | 3.4 B |
+| [#değişim](https://www.tiktok.com/tag/de%C4%9Fi%C5%9Fim) | Kız-Kıza Mizah & İlişki | 📈 hızlanıyor | 256.4 B | 59 | %0.023 | 31 |
+| [#dram](https://www.tiktok.com/tag/dram) | Kız-Kıza Mizah & İlişki | 📈 hızlanıyor | 1.2 Mn | 286 | %0.023 | 108 |
+| [#shortsfeed](https://www.tiktok.com/tag/shortsfeed) | Kız-Kıza Mizah & İlişki | büyüyor | 1.1 Mn | 2.0 B | %0.188 | – |
+| [#parfüm](https://www.tiktok.com/tag/parf%C3%BCm) | Güzellik & Makyaj | zirvede | 301.4 B | 334 | %0.111 | -23 |
+| [#drama](https://www.tiktok.com/tag/drama) | Kız-Kıza Mizah & İlişki | zirvede | 19.0 Mn | 20.8 B | %0.11 | -2.1 B |
+| [#ciltbakımı](https://www.tiktok.com/tag/ciltbak%C4%B1m%C4%B1) | Güzellik & Makyaj | zirvede | 262.8 B | 181 | %0.069 | -6 |
+| [#glowup](https://www.tiktok.com/tag/glowup) | Güzellik & Makyaj | zirvede | 34.3 Mn | 15.8 B | %0.046 | -2.0 B |
+| [#bebek](https://www.tiktok.com/tag/bebek) | Kız-Kıza Mizah & İlişki | zirvede | 972.2 B | 370 | %0.038 | -2 |
+| [#gelin](https://www.tiktok.com/tag/gelin) | Kız-Kıza Mizah & İlişki | zirvede | 427.6 B | 65 | %0.015 | -1 |
+| [#komikvideolar](https://www.tiktok.com/tag/komikvideolar) | Kız-Kıza Mizah & İlişki | veri bekleniyor | 861.9 B | – | – | – |
+| [#annekiz](https://www.tiktok.com/tag/annekiz) | Kız-Kıza Mizah & İlişki | veri bekleniyor | 31.9 B | – | – | – |
+| [#SaçBakımı](https://www.tiktok.com/tag/Sa%C3%A7Bak%C4%B1m%C4%B1) | Güzellik & Makyaj | veri bekleniyor | 113.5 B | – | – | – |
+| [#makyaj](https://www.tiktok.com/tag/makyaj) | Güzellik & Makyaj | yavaşlıyor | 365.6 B | 272 | %0.074 | -89 |
+| [#sac](https://www.tiktok.com/tag/sac) | Güzellik & Makyaj | yavaşlıyor | 1.1 Mn | 746 | %0.069 | -411.7 B |
+| [#kızkıza](https://www.tiktok.com/tag/k%C4%B1zk%C4%B1za) | Kız-Kıza Mizah & İlişki | yavaşlıyor | 28.8 B | 19 | %0.066 | -4 |
 
 ## Sesler — Kız-Kıza Mizah & İlişki
 
 | Ses | Durum | Video (7 gün) | Bugün |
 |---|---|---|---|
+| [orijinal ses — Taha_cgl](https://www.tiktok.com/music/x-7678302669232147207) | yükselişte | 4 | 2 |
+| [orijinal ses — böcek reis](https://www.tiktok.com/music/x-7694949983048469254) | aktif | 3 | 1 |
 | [الصوت الأصلي — ayman tatlises26](https://www.tiktok.com/music/x-7463716311450422038) | sakin | 3 | 0 |
+| [الصوت الأصلي — 🥀«saeb»](https://www.tiktok.com/music/x-7253752914375674630) | yükselişte | 2 | 1 |
 | [Chopin Nocturne No. 2 Piano Mono — moshimo sound design](https://www.tiktok.com/music/x-6817665487665629186) | sakin | 2 | 0 |
-| [orijinal ses — Taha_cgl](https://www.tiktok.com/music/x-7678302669232147207) | sakin | 2 | 0 |
-| [orijinal ses — böcek reis](https://www.tiktok.com/music/x-7694949983048469254) | sakin | 2 | 0 |
 | [Training Season (Live from the Royal Albert Hall) — Dua Lipa](https://www.tiktok.com/music/x-7445345666976631558) | sakin | 2 | 0 |
 | [orijinal ses — meromedi](https://www.tiktok.com/music/x-7697691706879265552) | sakin | 2 | 0 |
 | [original sound - rke✧ — ian✧](https://www.tiktok.com/music/x-7304653207413000965) | sakin | 2 | 0 |
 | [orijinal ses — nisademirerr](https://www.tiktok.com/music/x-7697008671147182856) | sakin | 2 | 0 |
 | [Main Theme: The Addams Family (Halloween Music) (from "The Addams Family" Original Motion Picture Soundtrack) — Vic Mizzy and His Orchestra and Chorus](https://www.tiktok.com/music/x-7149256964257384449) | sakin | 2 | 0 |
-| [Bonito, Bonito — Thiago Navarro Music](https://www.tiktok.com/music/x-7670012940545017873) | yeni | 1 | 1 |
 
 ## Sesler — Güzellik & Makyaj
 
 | Ses | Durum | Video (7 gün) | Bugün |
 |---|---|---|---|
+| [original sound — joopito_](https://www.tiktok.com/music/x-7672941830732466977) | yükselişte | 2 | 1 |
 | [оригинальный звук — МИЛС⛎](https://www.tiktok.com/music/x-7618726403697134356) | sakin | 2 | 0 |
-| [Bell Sound/Temple/Gone/About 10 minutes(846892) — yulu-ism project](https://www.tiktok.com/music/x-6860507200192792578) | yeni | 1 | 1 |
+| [Geçmiş Geçmişte — Emir Can İğrek](https://www.tiktok.com/music/x-7642004511223138320) | yeni | 1 | 1 |
 | [FUNK DO BOUNCE (Slowed) — Ariis](https://www.tiktok.com/music/x-7406366943060690945) | sakin | 1 | 0 |
 | [Дикая львица — ALEX&RUS](https://www.tiktok.com/music/x-6707774381675808769) | sakin | 1 | 0 |
 | [luther — Kendrick Lamar & SZA](https://www.tiktok.com/music/x-7439295283975702544) | sakin | 1 | 0 |
-| [Arab Romantic Lover — Zahidan Beats](https://www.tiktok.com/music/x-7576994820658759697) | sakin | 1 | 0 |
 | [saçlarıma yıldız takana değil yoldurana aşıktım — Enes & Eren & yusufenqs](https://www.tiktok.com/music/x-7420557002714105873) | sakin | 1 | 0 |
-| [Geceye Sözüm Var (Canlı Konser) / Pop Arabesk / Anatolia Sound Official Music 2026 — Anatolia Sound](https://www.tiktok.com/music/x-7634524002321106961) | sakin | 1 | 0 |
-| [Kime Ne — Melis Derin](https://www.tiktok.com/music/x-7629098859469867025) | sakin | 1 | 0 |
+| [Bell Sound/Temple/Gone/About 10 minutes(846892) — yulu-ism project](https://www.tiktok.com/music/x-6860507200192792578) | sakin | 1 | 0 |
 
 ## Sesler — Moda & Kombin
 
 | Ses | Durum | Video (7 gün) | Bugün |
 |---|---|---|---|
-| [original sound — notlolabella](https://www.tiktok.com/music/x-7686730447438514957) | sakin | 2 | 0 |
-| [Refreshing and light indie pop(1552207) — Cheng Lee](https://www.tiktok.com/music/x-7369293314431387649) | sakin | 1 | 0 |
 | [TRALALA — manifest](https://www.tiktok.com/music/x-7694406460926593813) | sakin | 1 | 0 |
 | [Jenerik — Ömer Özgür](https://www.tiktok.com/music/x-6909250444644583426) | sakin | 1 | 0 |
 | [Famous Johann Strauss II's The Blue Danube — Alessandro Vieri](https://www.tiktok.com/music/x-7677943741521692682) | sakin | 1 | 0 |
+
+## Sesler — Şarkı Söyleme ve Dans Etme
+
+| Ses | Durum | Video (7 gün) | Bugün |
+|---|---|---|---|
+| [DİYARBAKIR CİĞERİ MAZİKUZİÇİYAFEST — diyarbakır ciğeri](https://www.tiktok.com/music/x-7681711084327258888) | sakin | 3 | 0 |
+| [orijinal ses — Sakız çiğniyorum](https://www.tiktok.com/music/x-7698057625941986064) | sakin | 3 | 0 |
+| [Базовый минимум — Sabi & MIA BOYKA](https://www.tiktok.com/music/x-7532141004221286401) | sakin | 2 | 0 |
+| [TRALALA — manifest](https://www.tiktok.com/music/x-7692023528062076980) | sakin | 2 | 0 |
+| [orijinal ses — İsra](https://www.tiktok.com/music/x-7694661576993131271) | sakin | 2 | 0 |
+| [Zany Emote Fortnite — CsCrafty](https://www.tiktok.com/music/x-7002429550756219654) | sakin | 2 | 0 |
+| [оригинальный звук - ТГК; Vaiff_G — ТГК; Vaiff_G](https://www.tiktok.com/music/x-7683062332474542870) | sakin | 2 | 0 |
+| [Bahar Gözlüm - Hazalım — Ramazan Talay](https://www.tiktok.com/music/x-7308706012520286210) | sakin | 1 | 0 |
+| [Macarena — Los Del Rio](https://www.tiktok.com/music/x-6696416708585850882) | sakin | 1 | 0 |
+| [Alors On Danse - Extended Mix — Stromae](https://www.tiktok.com/music/x-6927279638285420546) | sakin | 1 | 0 |
 
 ## Sesler — Pleybek
 
@@ -78,58 +90,42 @@ Explore'dan bugün 291 video, havuzda 830 video (47% Türkçe). Geçmiş: 10 gü
 
 | Ses | Durum | Video (7 gün) | Bugün |
 |---|---|---|---|
-| [Poco a poco sin hacer Ruido — Lema87](https://www.tiktok.com/music/x-7644578932486146065) | yeni | 1 | 1 |
-| [Mevlana Gibi — Abdurrahman Önül](https://www.tiktok.com/music/x-6767392722354440193) | yeni | 1 | 1 |
+| [G6 — Yung Ouzo](https://www.tiktok.com/music/x-7670892211908151313) | yeni | 1 | 1 |
+| [Poco a poco sin hacer Ruido — Lema87](https://www.tiktok.com/music/x-7644578932486146065) | sakin | 1 | 0 |
 | [Dixie(PHONK) — K7K7](https://www.tiktok.com/music/x-7538260675753199657) | sakin | 1 | 0 |
+| [Mevlana Gibi — Abdurrahman Önül](https://www.tiktok.com/music/x-6767392722354440193) | sakin | 1 | 0 |
 | [Wyw my sweetie #JerseyClub - Slowed — nissi & 25Hzz](https://www.tiktok.com/music/x-7678781752288495633) | sakin | 1 | 0 |
 | [Steel Rail Oath — Marla Creek](https://www.tiktok.com/music/x-7674792242385406003) | sakin | 1 | 0 |
 | [Blocked Overpass — Paper Kites and Static Films](https://www.tiktok.com/music/x-7681643120307767296) | sakin | 1 | 0 |
-| [Pocketwatch Parade — Tilly Barton](https://www.tiktok.com/music/x-7681295152731686922) | sakin | 1 | 0 |
 | [Earth — Yotam Agam](https://www.tiktok.com/music/x-7059803961135024129) | sakin | 1 | 0 |
-| [Moo in Manhattan — Tiny Desk John](https://www.tiktok.com/music/x-7675350639023425582) | sakin | 1 | 0 |
-
-## Sesler — Şarkı Söyleme ve Dans Etme
-
-| Ses | Durum | Video (7 gün) | Bugün |
-|---|---|---|---|
-| [Zany Emote Fortnite — CsCrafty](https://www.tiktok.com/music/x-7002429550756219654) | sakin | 4 | 0 |
-| [DİYARBAKIR CİĞERİ MAZİKUZİÇİYAFEST — diyarbakır ciğeri](https://www.tiktok.com/music/x-7681711084327258888) | sakin | 3 | 0 |
-| [orijinal ses — Sakız çiğniyorum](https://www.tiktok.com/music/x-7698057625941986064) | sakin | 3 | 0 |
-| [Базовый минимум — Sabi & MIA BOYKA](https://www.tiktok.com/music/x-7532141004221286401) | sakin | 2 | 0 |
-| [TRALALA — manifest](https://www.tiktok.com/music/x-7692023528062076980) | sakin | 2 | 0 |
-| [orijinal ses — İsra](https://www.tiktok.com/music/x-7694661576993131271) | sakin | 2 | 0 |
-| [оригинальный звук - ТГК; Vaiff_G — ТГК; Vaiff_G](https://www.tiktok.com/music/x-7683062332474542870) | sakin | 2 | 0 |
-| [Alors On Danse - Extended Mix — Stromae](https://www.tiktok.com/music/x-6927279638285420546) | yeni | 1 | 1 |
-| [Bahar Gözlüm - Hazalım — Ramazan Talay](https://www.tiktok.com/music/x-7308706012520286210) | sakin | 1 | 0 |
-| [Macarena — Los Del Rio](https://www.tiktok.com/music/x-6696416708585850882) | sakin | 1 | 0 |
 
 ## Sesler — Genel Türkiye
 
 | Ses | Durum | Video (7 gün) | Bugün |
 |---|---|---|---|
+| [orijinal ses — Taha_cgl](https://www.tiktok.com/music/x-7678302669232147207) | yükselişte | 4 | 2 |
 | [оригинальный звук - ТГК; Vaiff_G — ТГК; Vaiff_G](https://www.tiktok.com/music/x-7683062332474542870) | sakin | 4 | 0 |
+| [orijinal ses — Erdinç Hasırcı](https://www.tiktok.com/music/x-7677089358801423112) | yükselişte | 2 | 1 |
+| [الصوت الأصلي — 🥀«saeb»](https://www.tiktok.com/music/x-7253752914375674630) | yükselişte | 2 | 1 |
+| [original sound — joopito_](https://www.tiktok.com/music/x-7672941830732466977) | yükselişte | 2 | 1 |
 | [TRALALA — manifest](https://www.tiktok.com/music/x-7692023528062076980) | sakin | 2 | 0 |
 | [orijinal ses — Sakız çiğniyorum](https://www.tiktok.com/music/x-7698057625941986064) | sakin | 2 | 0 |
 | [DİYARBAKIR CİĞERİ MAZİKUZİÇİYAFEST — diyarbakır ciğeri](https://www.tiktok.com/music/x-7681711084327258888) | sakin | 2 | 0 |
-| [orijinal ses — Taha_cgl](https://www.tiktok.com/music/x-7678302669232147207) | sakin | 2 | 0 |
 | [orijinal ses — böcek reis](https://www.tiktok.com/music/x-7694949983048469254) | sakin | 2 | 0 |
 | [orijinal ses — ruhastası](https://www.tiktok.com/music/x-7690666673926687506) | sakin | 2 | 0 |
-| [original sound — notlolabella](https://www.tiktok.com/music/x-7686730447438514957) | sakin | 2 | 0 |
-| [Zany Emote Fortnite — CsCrafty](https://www.tiktok.com/music/x-7002429550756219654) | sakin | 2 | 0 |
-| [оригинальный звук — МИЛС⛎](https://www.tiktok.com/music/x-7618726403697134356) | sakin | 2 | 0 |
 
 ## Gündem (Google Trends TR)
 
-- **işkur** (1000+) — Gençlik programı sözleşmesi imzalandı
-- **istinat duvarı** (100+) — İstinat duvarı yıkılan apartmanın ortaya çıkan temeli, estetikten uzak görüntüsünü gözler önüne serdi İhlas Haber Ajansı
-- **milli saraylar personel alımı** (100+) — Milli Saraylar KPSS'siz müze görevlisi alacak: İşte başvuru tarihleri!
-- **memurlar** (1000+) — Kamu personelinin ücret sisteminde yeni dönem
-- **posta** (200+) — Malatya'da posta kutusuna sıkışan kedi kurtarıldı
-- **webaslan** (200+) — Galatasaray'a 20'lik süper yetenek! Teklif kapıda
-- **samsun haber** (100+) — Vatandaşa mikrofon uzatan Gazete Arena Anneler Parkı projesini sordu
-- **van haber** (100+) — Van'da devrilen otomobildeki 3 kişi yaralandı
-- **mynet** (10000+) — Devrim Özkan ile Deniz Can Aktaş'ın aşkı belgelendi! İlk kare geldi - Magazin Haberleri
-- **haberler** (10000+) — 57 gün sonra cansız bedenine ulaşıldı
+- **kahramanmaraş** (100+) — Kahramanmaraş'ta Uluslararası Dünya Hikâye Anlatıcıları Şöleni akademik panelle başladı
+- **1 dolar kaç tl** (1000+) — Dolar/TL ne kadar oldu?
+- **meteoroloji ankara** (20000+) — Kuvvetli sağanak geliyor! Tarih verildi: Günlerce sürecek | İstanbul dahil birçok kentte yağış bekleniyor
+- **ankara hava durumu** (5000+) — Ankara hava durumu 31 Ekim 2026! Yarın Ankara’da yağmur var mı? Ankara hafta sonu ve 5 günlük hava durumu
+- **şeniz doğan** (100+) — Denizli'de Merkezefendi Belediyesi'ne yönelik soruşturmada 5 şüpheli tutuklandı
+- **celtics - bulls** (100+) — Chicago Bulls at Boston Celtics Betting Tips – Celtics To Blowout Bulls Again In NBA
+- **adana** (100+) — Kültür Şenliği Haberleri - Son Dakika Kültür Şenliği Haber Güncel Gelişmeler
+- **آبوهوا** (500+)
+- **trabzon hava durumu** (200+) — Trabzon’da 5 günlük tahmin belli oldu! Sağanak geri dönüyor
+- **lonnie walker iv** (200+) — Lonnie Walker after record night: “Hope you guys enjoyed the show”
 
 ## Creative Center TR (resmi, 7 gün)
 
